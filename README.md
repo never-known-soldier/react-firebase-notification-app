@@ -4,7 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+## Firebase installation and start script:
+
+### `npm install -g firebase-tools`
+
+### `firebase login`
+
+### `firebase emulators:start`
+
+In the project directory, with other terminal, you can run:
 
 ### `npm start`
 
